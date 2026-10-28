@@ -1,0 +1,12 @@
+{
+  "name": "ebtekar-chat-ui",
+  "version": "1.0.0",
+  "description": "A minimal RTL web chat for the Ebtekar Developer Gateway, with a server-side proxy that keeps your API key private.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
